@@ -4,9 +4,6 @@ DOMAIN-SUFFIX,18hlw.com #黑料网
 DOMAIN-SUFFIX,acc00.com
 #network
 DOMAIN,1p.wxinr.com
-DOMAIN,ss.wxinr.com
-DOMAIN,sjc.wxinr.com
-DOMAIN,bbp.wxinr.com  
 DOMAIN-SUFFIX,ambbc.com
 DOMAIN-SUFFIX,chinamoutai.de
 DOMAIN-SUFFIX,v2board.com
@@ -17,6 +14,7 @@ DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,greasyfork.org #油猴脚本
 DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,threads.net
+DOMAIN-SUFFIX,sagernet.org
 #18
 DOMAIN-SUFFIX,javrate.com #鉴黄师
 DOMAIN-SUFFIX,sehuatang.net #98堂
